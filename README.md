@@ -92,4 +92,5 @@ Roughly 100 semantic elements
 HTML=HyperText Markup Language
 "Hypertext" refers to links that connect web pages to one another
 
-DL Balsamiq?
+
+[Go to TOC](https://catdude2000.github.io/reading-notes/)
