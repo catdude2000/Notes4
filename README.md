@@ -70,14 +70,14 @@ Let's turn our attention to the <img> element again:
 As we said before, it embeds an image into our page in the position it appears. It does this via the src (source) attribute, 
 which contains the path to our image file.
 alt attribute provides descriptive text for scrreen readers or if image does not display
-<h1>-<h6>  (heading elements)
-<p><p/>  elements for paragraphs
-<ul>=unordered list
-<ol>=ordered list
+< h1>-<h6>  (heading elements)
+< p><p/>  elements for paragraphs
+< ul>=unordered list
+< ol>=ordered list
 each item put inside 
-<a>=anchor
+< a>=anchor
 add href="urlname"
-examp: <a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>
+examp: < a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>
 
 Semantics refers to the meaning of a piece of code
 Some of the benefits from writing semantic markup are as follows:
